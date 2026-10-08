@@ -1,1 +1,1 @@
-# dataviz-exercise-mohammed-parvez
+# dataviz-exercises-mohammed-parvez
